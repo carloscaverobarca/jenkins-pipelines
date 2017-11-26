@@ -1,6 +1,6 @@
 # Description
 
-This pipeline executes Selenium tests against Chrome and Firefox, all running in the docker containers but in separate containers and in parallel
+This pipeline executes Selenium tests against Chrome and Firefox, all running in separate docker containers and in parallel
 
 # Pre-requisites
 
