@@ -9,7 +9,7 @@ This pipeline executes Selenium tests against Chrome and Firefox, all running in
 
 # Instructions
 
-- Create a new `Pipeline` job and configure your `SCM` repository containing the Jenkinsfile.
+- Create a new `Pipeline` job and configure your `SCM` containing the Jenkinsfile or clone this repo as an example.
 
 # External resources
 
