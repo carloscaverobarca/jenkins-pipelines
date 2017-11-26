@@ -4,6 +4,7 @@ This pipeline executes Selenium tests against Chrome and Firefox, all running in
 
 # Pre-requisites
 
+- [Install Docker](https://docs.docker.com/engine/installation/) and [add the server as slave to your Jenkins installation](https://devopscube.com/docker-containers-as-build-slaves-jenkins/) using the label `docker-slave`.
 - [Docker Pipeline plugin](https://wiki.jenkins.io/display/JENKINS/Docker+Pipeline+Plugin)
 
 # Instructions
