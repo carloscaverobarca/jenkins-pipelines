@@ -35,6 +35,7 @@
       git {
         remote("#repogit")
         credentialsId('#credentials')
+        includes('develop master*')
       }
     }
 
