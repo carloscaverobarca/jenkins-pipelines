@@ -17,6 +17,7 @@ This pipeline creates a Jenkins GitLab Multibranch job using Groovy Domain-Speci
 # External resources
 
 - [Jenkins Job DSL API Viewer](https://jenkinsci.github.io/job-dsl-plugin/)
+- [multibranchPipelineJob documentation](https://jenkinsci.github.io/job-dsl-plugin/#path/multibranchPipelineJob)
 
 # License
 
