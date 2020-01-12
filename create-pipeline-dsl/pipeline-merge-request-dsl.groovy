@@ -45,17 +45,17 @@
 	
     definition {
         cpsScm {
-			lightweight(true)
-			scm {
-				git {
-					remote {
-						url("#repogit")
-						credentials('#credentials')
-					}
-					branches('*/*')
-				}
-			}
-		}
+            lightweight(true)
+            scm {
+                git {
+                    remote {
+                        url("#repogit")
+                        credentials('#credentials')
+		    }
+                    branches('*/*')
+                }
+            }
+        }
     }
   }
 }

@@ -49,6 +49,5 @@
     triggers {
       periodic(1)
     }
-
   }
 }
